@@ -1,7 +1,7 @@
 # PBR3DGen
 
 <p align="center">
-  <img src="figures/Teaser_PBR.png" align="center" width="50%">
+  <img src="figure/teaser.jpg" align="center" width="50%">
   
   <h2 align="center"><strong>PBR3DGen: A VLM-guided mesh generation with high-quality PBR textures</strong></h2>
 
@@ -25,7 +25,6 @@
     <sup>3</sup>Nanyang Technological University,
     <sup>4</sup>Tencent Hunyuan,                    
                     
-    (*Equal Contribution)
 
 </p>
 
