@@ -2,9 +2,7 @@
 
 <p align="center">
 <!--   <img src="figure/teaser.jpg" align="center" width="50%"> -->
-  
-  #<h2 align="center"><strong>PBR3DGen: A VLM-guided mesh generation with high-quality PBR textures</strong></h2>
-  
+
   <h2 class="title is-2"> <img id="logo" style="position: relative; top: 2.5px; height: 55px;" src="figure/icon.jpg"> PBR3DGen: A VLM-guided mesh generation with high-quality PBR textures </h2>
   <p align="center">
     <a href="https://scholar.google.com/citations?user=4pz1qQQAAAAJ&hl=en">Xiaokang Wei*<sup>1,4</sup>,
@@ -35,8 +33,8 @@
 <a href='https://arxiv.org/pdf/2503.11368'><img src='https://img.shields.io/badge/arXiv-2501.14317-b31b1b.svg'></a> 
 
 </div>
-
-![image](https://github.com/PBR3DGen1218/pbr3dgen1218.github.io/tree/main/static/imgs/teaser.jpg)
+<img src="figure/teaser.jpg" align="center" width="80%">
+<!-- ![image](https://github.com/PBR3DGen1218/pbr3dgen1218.github.io/tree/main/static/imgs/teaser.jpg) -->
 
 
 ## Preparation
