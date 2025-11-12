@@ -2,7 +2,7 @@
 <p align="center">
 <!--   <img src="figure/teaser.jpg" align="center" width="50%"> -->
 
-  <h1 align="center"> <img id="logo" style="position: relative; top: 2.5px; height: 55px;" src="figure/icon.png"> PBR3DGen: A VLM-guided mesh generation with High-Quality PBR texture (AAAI 2026) </h1>
+  <h1 align="center"> <img id="logo" style="position: relative; top: 2.5px; height: 55px;" src="figure/icon.png"> PBR3DGen: A VLM-guided Mesh Generation with High-Quality PBR texture (AAAI 2026) </h1>
   <p align="center">
     <a href="https://scholar.google.com/citations?user=4pz1qQQAAAAJ&hl=en">Xiaokang Wei*<sup>1,4</sup>,
     Bowen Zhang*<sup>2,4</sup>,</span>
