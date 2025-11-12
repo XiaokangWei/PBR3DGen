@@ -4,6 +4,9 @@
 
   <h1 align="center"> <img id="logo" style="position: relative; top: 2.5px; height: 55px;" src="figure/icon.png"> PBR3DGen: A VLM-guided mesh generation with high-quality PBR texture </h1>
   <p align="center">
+    <div class="is-size-4 publication-authors">
+    <span class="author-block">AAAI 2026</span>
+    </div>
     <a href="https://scholar.google.com/citations?user=4pz1qQQAAAAJ&hl=en">Xiaokang Wei*<sup>1,4</sup>,
     Bowen Zhang*<sup>2,4</sup>,</span>
     <a href="https://wi-sc.github.io/xianghui-yang/">Xianghui Yang</a><sup>4</sup>,
@@ -21,7 +24,7 @@
     <sup>2</sup>Xi'an Jiaotong University,
     <br>
     <sup>3</sup>Nanyang Technological University,
-    <sup>4</sup>Tencent Hunyuan,                    
+    <sup>4</sup>Tencent Hunyuan3D,                    
                     
 
 </p>
